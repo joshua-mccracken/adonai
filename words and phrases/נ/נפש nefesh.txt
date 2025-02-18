@@ -61,18 +61,18 @@ nefesh of animals
 genesis 1 24
 genesis 1 30
 genesis 2 19
-genesis 9 2-4
+genesis 9 2 4
 genesis 9 10
 leviticus 11 46
 
 genesis 1 20
 genesis 1 21
-genesis 9 2-4
+genesis 9 2 4
 leviticus 11 10
 leviticus 11 46
 
 genesis 2 19
-genesis 9 2-4
+genesis 9 2 4
 genesis 9 10
 
 the nefesh of domestic animals can be killed
