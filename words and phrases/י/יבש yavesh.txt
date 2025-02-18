@@ -2,4 +2,4 @@ yavesh יבש
 
 dry
 
-numbers 11:6
+numbers 11 6

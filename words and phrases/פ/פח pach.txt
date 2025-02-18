@@ -9,4 +9,4 @@ a can
 a net
 a snare
 
-numbers 17:3
+numbers 17 3

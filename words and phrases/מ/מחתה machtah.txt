@@ -5,4 +5,4 @@ a fire pan
 a censer
 a snuff dish
 
-numbers 17:3
+numbers 17 3
