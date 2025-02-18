@@ -5,4 +5,4 @@ surety
 pledge
 store
 
-[leviticus 5:21]
+leviticus 5:21
