@@ -1,7 +1,9 @@
 chata ח-ט-א
 
-to sin
-to miss the mark
+to sin/miss the mark, pa'al
+to cleanse/disinfect, pi'el
+to cause to sin/miss the mark, hif'il
+to cleanse oneself/importune, hitpa'el
 
 lachto לחטוא
 [pa'al infinitive construct]
@@ -42,8 +44,11 @@ techta תחטא
 [leviticus 4:2]
 [leviticus 4:27]
 
-techte'u (תחטאו)
+techte'u תחטאו
 [pa'al uncompleted second person masculine plural]
 
 [genesis 42:22]
 after yosef's brothers first come to mitsrayim and he accuses them of being spies, re'uven answers his brothers' cries saying that he told them not to sin against yosef. now, yosef's blood is required
+
+exodus 20:20
+after bnei yisra'el received the ten words and saw the mighty display on mount sinai, mosheh told them not to fear for adonai had come in order that they be tested so that his fear would be in them in order that they not sin
